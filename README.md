@@ -1,9 +1,12 @@
 📊 Airbnb Data Visualization Project (Tableau)
+
 Proyek ini merupakan bagian dari pelatihan Data Analyst yang saya ikuti bersama Alex The Analyst.
 Analisis dilakukan menggunakan Tableau dengan dataset publik dari Kaggle yang berisi data listing Airbnb tahun 2016.
 
 📂 Dataset
+
 Dataset publik diambil dari Kaggle:
+
 Airbnb Listings 2016 Dataset – Alexander Freberg
 
 Dataset ini mencakup informasi terkait:
@@ -19,6 +22,7 @@ Lokasi (zipcode)
 Tanggal listing
 
 🎯 Tujuan Analisis
+
 Menganalisis harga sewa berdasarkan jumlah kamar dan lokasi.
 
 Mengidentifikasi distribusi jumlah listing di berbagai area.
@@ -35,6 +39,7 @@ Excel/CSV → Pembersihan & pengolahan data awal
 Kaggle → Sumber dataset
 
 📈 Insight yang Ditemukan
+
 Harga sewa bervariasi signifikan berdasarkan jumlah kamar dan lokasi.
 
 Area tertentu memiliki konsentrasi listing lebih tinggi.
