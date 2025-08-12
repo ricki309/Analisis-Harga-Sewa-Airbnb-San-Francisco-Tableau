@@ -3,9 +3,13 @@
 Proyek ini merupakan bagian dari pelatihan Data Analyst yang saya ikuti bersama Alex The Analyst.
 Analisis dilakukan menggunakan Tableau dengan dataset publik dari Kaggle yang berisi data listing Airbnb tahun 2016.
 
-📂 Dataset
+📂 Sumber & Referensi
+- **Pelatihan (YouTube)**: Tableau Full Project – Alex The Analyst  
+  https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=32  
+- **Dataset (Kaggle)**: Airbnb Listings 2016 Dataset – Alexander Freberg  
+  https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset  
 
-Dataset publik diambil dari Kaggle: Airbnb Listings 2016 Dataset – Alexander Freberg
+📂 Dataset
 
 Dataset ini mencakup informasi terkait:
 
