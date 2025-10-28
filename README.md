@@ -51,17 +51,17 @@ Dataset ini mencakup informasi berikut:
 
 ---
 
-## 📸 Hasil Dashboard
+## 📸 Preview Visualisasi
 
-Tampilan dashboard mencakup:
+<p align="center">
+  <img src="visuals/price_by_zipcode.PNG" alt="Average Price by Neighbourhood" width="48%">
+  <img src="visuals/price_per_zipcode.PNG" alt="Average Price by Accommodates" width="48%">
+</p>
 
-- Distribusi harga dan jumlah listing per area  
-- Tren harga dan ketersediaan berdasarkan waktu  
-- Estimasi potensi pendapatan berdasarkan karakteristik properti
-
-<img width="1920" height="1080" alt="Hijau dan Krem Simple Portfolio Digital Marketer Presentasi" src="https://github.com/user-attachments/assets/55bfaa57-a829-4333-adb4-b3c33ed87fbc" />
-
-🎨 **Tema visual:** Hijau & Krem Minimalis – gaya sederhana untuk portofolio analisis data.  
+<p align="center">
+  <img src="visuals/revenue_for_year.PNG" alt="Average Price by Neighbourhood" width="48%">
+  <img src="visuals/visuals_dashboard_airbnb.PNG" alt="Average Price by Accommodates" width="48%">
+</p>
 
 ---
 
